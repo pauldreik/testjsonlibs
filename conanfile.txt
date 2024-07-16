@@ -1,0 +1,11 @@
+[requires]
+fmt/11.0.1
+daw_json_link/3.23.2
+boost/1.85.0
+glaze/2.9.2
+
+[generators]
+CMakeDeps
+CMakeToolchain
+[layout]
+cmake_layout
